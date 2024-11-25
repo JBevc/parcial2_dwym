@@ -1,0 +1,46 @@
+{
+  "destinations": [
+    {
+      "id": "2",
+      "name": "Monte Everest 🗻❄️",
+      "description": "La montaña más alta del mundo, ubicada en la cordillera del Himalaya.",
+      "difficulty": "Fácil",
+      "favorites": 0
+    },
+    {
+      "id": "3",
+      "name": "Desierto del Sahara 🏜️☀️",
+      "description": "El desierto cálido más grande del mundo, situado en África.",
+      "difficulty": "Moderada",
+      "favorites": 85
+    },
+    {
+      "id": "4",
+      "name": "Gran Barrera de Coral 🐠🌊",
+      "description": "El sistema de arrecifes de coral más grande del mundo, en Australia.",
+      "difficulty": "Fácil",
+      "favorites": 150
+    },
+    {
+      "id": "6",
+      "name": "Parque Nacional Yellowstone 🐻🌲",
+      "description": "El primer parque nacional del mundo, conocido por sus géiseres y fauna.",
+      "difficulty": "Moderada",
+      "favorites": 0
+    },
+    {
+      "id": "7",
+      "name": "Islas Galápagos 🐢🌴",
+      "description": "Un archipiélago volcánico famoso por su biodiversidad única.",
+      "difficulty": "Moderada",
+      "favorites": 99
+    },
+    {
+      "id": "8",
+      "name": "Auroras Boreales en Noruega 🌌❄️",
+      "description": "Un fenómeno natural espectacular visible en el cielo nocturno ártico.",
+      "difficulty": "Fácil",
+      "favorites": 140
+    }
+  ]
+}
